@@ -1,5 +1,7 @@
-# PEC03-Monovich
+# LA HIBRIDACIÓN SEGÚN MANOVICH
 
+La tecnología está en constante evolución, en cosa de una década hemos presenciado un rápido crecimiento del software gracias a sus herramientas, la eficacia que nos proporciona. After Effects es un programa que marcó la evolución de la revolución del software proporcionando un manejo de las imágenes en movimiento. 
+En el libro de Manovich nos podemos encontrar fragmentos de párrafos dónde nos puede ayudar a entender un poco el proceso de esta evolución.
 “Los materiales se convierten en estructuras físicas, mecánicas y electrónicas que se transforman en herramientas de software que trabajan sobre las estructuras de datos”
 Desde esta perspectiva, todos los diseñadores y artistas que trabajan con el software de medios están haciendo lo mismo: utilizar las herramientas que les ofrece el programa de software para crear, modificar y editar datos organizados en estructuras.
 
@@ -7,6 +9,12 @@ Desde esta perspectiva, todos los diseñadores y artistas que trabajan con el so
 Los medios digitales engloba dos elementos esenciales: los algoritmos y las estructuras de datos.
 La teoría del software no es un lujo, si no una necesidad.
 El tránsito hacia las herramientas basadas en el software de los noventa no solo afectó a la cultura de la imagen en movimiento, si no a todas las demás disciplinas del diseño de medios. 
+
+El metamedio significa el encuentro/inclusión/acumulación, en definitiva, la unión de realidades que anteriormente existían por separado.
+Los archivos pueden divagar entre aplicaciones, se transforman y se refuerzan mediante las operaciones que admite cada programa. Esto tiene dos consecuencias importantes: la estética visual de uso de las mismas técnicas y estratégicas en todo este universo sea cual sea el medio o el proyecto final.”
+
+A pesar de su coste a principios de siglo, la necesidad, comodidad y la eficacia nos ha beneficiado a lo largo del tiempo. Con esto podemos poner dos ejemplos, el primero en proceso de construcción, el metaverso, un mundo virtual dónde nos puede recordar a lo ya vivido: en la novela Snow Crash, el juego Los Sims, la película Matrix y realidad virtual con Pokemon Go o gafas virtuales con Half Life Alyx. En segundo lugar presentamos las videollamadas, algo muy recurrente sobre todo en tiempos de pandemia y que ha venido para quedarse.
+
 
 
 ## METAVERSO
