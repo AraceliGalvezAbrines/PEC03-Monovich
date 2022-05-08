@@ -1,4 +1,14 @@
 # PEC03-Monovich
+
+“Los materiales se convierten en estructuras físicas, mecánicas y electrónicas que se transforman en herramientas de software que trabajan sobre las estructuras de datos”
+Desde esta perspectiva, todos los diseñadores y artistas que trabajan con el software de medios están haciendo lo mismo: utilizar las herramientas que les ofrece el programa de software para crear, modificar y editar datos organizados en estructuras.
+
+“ El software emplea archivos para almacenar y transferir datos.
+Los medios digitales engloba dos elementos esenciales: los algoritmos y las estructuras de datos.
+La teoría del software no es un lujo, si no una necesidad.
+El tránsito hacia las herramientas basadas en el software de los noventa no solo afectó a la cultura de la imagen en movimiento, si no a todas las demás disciplinas del diseño de medios. 
+
+
 ## METAVERSO
 ### META FACEBOOK
 
