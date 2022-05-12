@@ -40,3 +40,24 @@ Google explicó que están pensando mucho en la computación ambiental y que con
 
 Aunque Google no ha declarado públicamente sus planes para el “metaverso”, este tipo de funcionalidades rompen las barreras entre lo virtual y lo real, permitiéndonos modificar nuestro mundo o nuestro aspecto, pero manteniendo elementos de la vida real.
 
+## BIBLIOGRAFÍA
+Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC
+METAVERSO: EL NUEVO MUNDO VIRTUAL l Qué es y por qué Facebook y Microsoft y otros apuestan por él (YouTube). 30 agosto 2021 de Xatava TV
+https://www.youtube.com/watch?v=x000E3ziMhs
+
+Qué es el metaverso y cuáles son las dudas que genera este mundo “gemelo” digital l BBC Mundo (YouTube) 12 noviembre 2021 de BBC News Mundo
+https://www.youtube.com/watch?v=XIJwITC2DeU
+
+Facebook ahora es META y esto es lo que va a pasar  (YouTube) 29 oct 2021 Geekdegafas
+https://www.youtube.com/watch?v=HeWbLK9vK24
+
+Vincent, Jaume. (2020) Qué es Google Meet y cómo usarlo 
+https://www.trecebits.com/2020/04/27/que-es-google-meet-y-como-usarlo/
+
+Google Meet ahora es capaz de meterte en entornos virtuales como por arte de magia
+https://www.eleconomista.es/tecnologia/noticias/11484398/11/21/Google-Meet-ahora-es-capaz-de-meterte-en-entornos-virtuales-como-por-arte-de-magia.html
+
+Raya, Adrián. (2021) Ventajas y desventajas de Google Meet.
+https://ayudameet.com/google-meet-ventajas-y-desventajas/#:~:text=Ventajas%20de%20la%20plataforma%20Google%20Meet&text=Con%20Google%20Meet%20podr%C3%A1s%20hablar,conferencias%3B%20Te%20recomendamos%20usar%20Meet
+
+
